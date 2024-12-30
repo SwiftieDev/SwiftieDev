@@ -1,6 +1,6 @@
  ## SwiftieDev
 
-- 💻 Swift tutorials on YouTube @SwiftieDev
-- 📸 Follow me on Instagram @SwiftieDev
-- ⚡ Follow me on Twitter @SwiftieDev_
-- ☕️ Support the channel on BuyMeACoffee @SwiftieDev
+- 💻 Swift tutorials on YouTube @SwiftlyDev
+- 📸 Follow me on Instagram @SwiftlyDev
+- ⚡ Follow me on Twitter @SwiftlyDev
+- ☕️ Support the channel on BuyMeACoffee @SwiftlyDev
