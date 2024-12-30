@@ -1,4 +1,4 @@
- ## SwiftieDev
+ ## SwiftlyDev
 
 - 💻 Swift tutorials on YouTube @SwiftlyDev
 - 📸 Follow me on Instagram @SwiftlyDev
